@@ -1,0 +1,10 @@
+body {
+    font-size: 15pt;
+}
+h1, h2, h3, p, a, figcaption{
+  font-family: 'Times New Roman';
+}
+
+img,{
+float: right;
+}
