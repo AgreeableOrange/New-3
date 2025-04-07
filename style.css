@@ -6,5 +6,5 @@ h1, h2, h3, p, a, figcaption{
 }
 
 img,{
-float: right;
+width: 100%;
 }
