@@ -1,10 +1,10 @@
 body {
-    font-size: 15pt;
+    font-size: 15px;
 }
 h1, h2, h3, p, a, figcaption{
   font-family: 'Times New Roman';
 }
 
-img,{
-width: 200%;
+img{
+width: 100%;
 }
